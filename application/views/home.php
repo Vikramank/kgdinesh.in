@@ -12,7 +12,7 @@
 	</div>
 	<div class="col-md-3 col-sm-6">
 	<div class="header"><h1 class="page-header"><i class="fa fa-futbol-o"></i> Fun</h1></div>
-	<p>When in the city discussing technology over <code><a href="https://www.google.co.in/search?q=irani+chai&es_sm=93&qscrl=1&source=lnms&tbm=isch&sa=X&ei=J1WMVL6jL9jnuQSB4oLoBA&ved=0CAgQ_AUoAQ&biw=1280&bih=699" target="_blank">Irani Chai</a></code> is my ideal way of passing time.</p>
+	<p>When in the city discussing tech over <code><a href="https://www.google.co.in/search?q=irani+chai&es_sm=93&qscrl=1&source=lnms&tbm=isch&sa=X&ei=J1WMVL6jL9jnuQSB4oLoBA&ved=0CAgQ_AUoAQ&biw=1280&bih=699" target="_blank">Irani Chai</a></code> is my ideal way of passing time.</p>
 	<p>When not, travelling to scenic places is my thing. My favourites include <code><a href="https://www.google.co.in/search?q=goa">Goa</a></code>, <code><a href="https://www.google.co.in/search?q=ooty" target="_blank">Ooty</a></code>, <code><a href="https://www.google.co.in/search?q=kodaikanal" target="_blank">Kodaikanal</a></code> & <code><a href="https://www.google.co.in/search?q=mahabaleshwar" target="_blank">Mahabaleshwar</a></code>.</p>
 	</div>
 	<div class="col-md-3 col-sm-6">
