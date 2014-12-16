@@ -1,0 +1,23 @@
+/* Sticky footer styles */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.img-container {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+}	
+p.msg:hover, div.header:hover {
+	color: #428bca;
+}
