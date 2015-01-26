@@ -7,7 +7,7 @@
 	</div>
 	<div class="col-md-3 col-sm-6">
 	<div class="header"><h1 class="page-header"><i class="fa fa-laptop"></i> 101010</h1></div>
-	<p>When not <b>too busy</b> with work, I spend most of my time on learning new stuff in and around <code><a href="http://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">Java</a></code>, <code><a href="http://en.wikipedia.org/wiki/Data_structure" target="_blank">Data Structures</a></code>, <code><a href="http://en.wikipedia.org/wiki/Algorithm" target="_blank">Algorithms</a></code> & <code><a href="http://en.wikipedia.org/wiki/Distributed_computing" target="_blank">Distributed Computing</a></code></p>
+	<p>When not <b>too busy</b> with work, I spend most of my time learning new stuff in and around <code><a href="http://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">Java</a></code>, <code><a href="http://en.wikipedia.org/wiki/Data_structure" target="_blank">Data Structures</a></code>, <code><a href="http://en.wikipedia.org/wiki/Algorithm" target="_blank">Algorithms</a></code> & <code><a href="http://en.wikipedia.org/wiki/Distributed_computing" target="_blank">Distributed Computing</a></code></p>
 	<p>When the reading gets tough, you can find me exploring nerdy <code><a href="http://reddit.com/r/ProgrammerHumor" target="_blank">subreddits</a></code>, glancing at <code><a href="http://news.ycombinator.com">HN</a></code>& browsing interesting <b>Github</b> repos.
 	</div>
 	<div class="col-md-3 col-sm-6">
